@@ -42,19 +42,18 @@ I enjoy building practical software, designing backend systems, working with dat
 ## 📊 GitHub
 
 <!-- GITHUB_STATS_START -->
-
 <p align="center">
-  <b>📦 0 Repositories</b>
+  <b>📦 11 Public Repositories</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <b>⭐ 0 Stars</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>👥 0 Followers</b>
+  <b>👥 2 Followers</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>👤 0 Following</b>
+  <b>👤 3 Following</b>
 </p>
 
 <p align="center">
-  <b>📝 0 Contributions</b>
+  <b>📝 12 Contributions</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <b>🔀 0 Pull Requests</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;

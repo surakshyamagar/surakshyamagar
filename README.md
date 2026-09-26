@@ -34,13 +34,6 @@ I enjoy building practical software, designing backend systems, working with dat
 
 ## 💻 What I Work On
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend%20Development-2563EB?style=flat-square&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Applications-7C3AED?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Design-0891B2?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
 * Backend development and REST APIs
 * Full-stack web applications
 * Database design and SQL

@@ -2,6 +2,10 @@
 
 ### Aspiring Software Developer | Backend & Full-Stack Development
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2563EB&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
+</p>
+
 I enjoy building practical software, designing backend systems, working with databases, and turning ideas into useful applications.
 
 ---
@@ -30,6 +34,13 @@ I enjoy building practical software, designing backend systems, working with dat
 
 ## 💻 What I Work On
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend%20Development-2563EB?style=flat-square&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Applications-7C3AED?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-0891B2?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
 * Backend development and REST APIs
 * Full-stack web applications
 * Database design and SQL
@@ -42,6 +53,7 @@ I enjoy building practical software, designing backend systems, working with dat
 ## 📊 GitHub
 
 <!-- GITHUB_STATS_START -->
+
 <p align="center">
   <b>📦 11 Public Repositories</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -73,8 +85,9 @@ I enjoy building practical software, designing backend systems, working with dat
 
 <p align="center">
   <img
-    src="https://github-activity-graph-beta.vercel.app/graph?username=surakshyamagar"
+    src="https://github-activity-graph-beta.vercel.app/graph?username=surakshyamagar&bg_color=ffffff&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true"
     alt="Surakshya's GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
@@ -133,6 +146,14 @@ I enjoy building practical software, designing backend systems, working with dat
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
 
 <p align="center">
   <i>Building · Learning · Improving 🚀</i>

@@ -43,7 +43,7 @@
 ### 🧰 Tools & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -112,23 +112,6 @@
     width="100%"
     alt="3D GitHub Contribution Profile"
   />
-</p>
-
----
-
-## 🚀 Explore My Work
-
-<p align="center">
-  <a href="https://portfolio-seven-lime-vl0tmq9kot.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"
-      alt="Visit Portfolio"
-    />
-  </a>
-</p>
-
-<p align="center">
-  Projects · Experience · CV · Skills · Contact
 </p>
 
 ---

@@ -14,21 +14,37 @@
 
 ---
 
-🛠️ Tech Stack
-### Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,csharp,javascript,typescript,dart,html,css" /> </p>
+## 🛠️ Tech Stack
 
-### Frontend & Mobile
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,reactnative,flutter" /> </p>
+### 💻 Languages
 
-### Backend & Frameworks
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript,dart,html,css" />
+</p>
 
-### Databases & ORM
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma" /> </p>
+### 🌐 Frontend & Mobile
 
-### Tools & Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet" />
+</p>
+
+### 🗄️ Databases & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma" />
+</p>
+
+### 🧰 Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 

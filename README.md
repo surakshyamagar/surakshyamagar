@@ -4,63 +4,69 @@
 
 I enjoy building practical software, designing backend systems, working with databases, and turning ideas into useful applications.
 
-I'm continuously improving my skills through hands-on projects, problem solving, and learning modern software development practices.
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
 </p>
 
 ### Backend & Frameworks
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react,nextjs" />
 </p>
 
 ### Databases & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,git,github,docker,vscode,postman" />
 </p>
 
 ---
 
 ## 💻 What I Work On
 
-- 🔹 Backend development and REST APIs
-- 🔹 Full-stack web applications
-- 🔹 Database design and SQL
-- 🔹 Authentication and API integration
-- 🔹 Data processing and integration
-- 🔹 Clean, maintainable software
-- 🔹 Learning and applying modern development tools
+* Backend development and REST APIs
+* Full-stack web applications
+* Database design and SQL
+* Authentication and API integration
+* Data processing and integration
+* Clean and maintainable software
 
 ---
 
 ## 📊 GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=surakshyamagar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="180"
-    alt="Surakshya's GitHub Stats"
-  />
+<!-- GITHUB_STATS_START -->
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=surakshyamagar&layout=compact&theme=transparent&hide_border=true"
-    height="180"
-    alt="Surakshya's Top Languages"
-  />
+<p align="center">
+  <b>📦 0 Repositories</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>⭐ 0 Stars</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>👥 0 Followers</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>👤 0 Following</b>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=surakshyamagar&theme=transparent&hide_border=true"
-    alt="Surakshya's GitHub Streak"
-  />
+  <b>📝 0 Contributions</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🔀 0 Pull Requests</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🐛 0 Issues</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🍴 0 Forks</b>
 </p>
+
+<p align="center">
+  <sub>Automatically updated from GitHub</sub>
+</p>
+<!-- GITHUB_STATS_END -->
 
 ---
 
@@ -75,66 +81,60 @@ I'm continuously improving my skills through hands-on projects, problem solving,
 
 ---
 
-## 🚀 Featured Projects
-
-> I'm continuously building and improving projects.  
-> Check my repositories for my latest work.
+## 🧊 3D Profile
 
 <p align="center">
-  <a href="https://github.com/surakshyamagar?tab=repositories">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    width="100%"
+    alt="3D GitHub Contribution Profile"
+  />
+</p>
+
+---
+
+## 🚀 Explore My Work
+
+<p align="center">
+  <a href="https://portfolio-seven-lime-vl0tmq9kot.vercel.app/">
     <img
-      src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View repositories"
+      src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"
+      alt="Visit Portfolio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Projects · Experience · CV · Skills · Contact
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://portfolio-seven-lime-vl0tmq9kot.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/surakshya-roka-7821a62b5/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:magarsurakshya349@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
     />
   </a>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- Backend architecture
-- Advanced SQL and database design
-- REST API development
-- Cloud and deployment
-- Data integration
-- Modern full-stack development
-- AI-assisted software development
-
----
-
-## 🎯 Goals
-
-- Build production-quality applications
-- Strengthen backend engineering skills
-- Contribute to meaningful open-source projects
-- Develop scalable and maintainable software
-- Continue growing as a software developer
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/surakshyamagar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Add your LinkedIn URL here -->
-  <!--
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
-</p>
-
----
-
-## 📫 Let's Connect
-
-I'm open to learning opportunities, interesting projects, collaboration, and conversations about software development.
-
----
-
 <p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
+  <i>Building · Learning · Improving 🚀</i>
 </p>

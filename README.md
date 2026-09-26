@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
 </p>
 
-I enjoy building practical software, designing backend systems, working with databases, and turning ideas into useful applications.
+💻 I build practical web applications, backend systems, and REST APIs.
+
+🗄️ I enjoy working with databases, API design, authentication, and software architecture.
+
+🌱 Always learning, building, debugging, and improving.
 
 ---
 

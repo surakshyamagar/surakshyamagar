@@ -16,20 +16,19 @@
 
 🛠️ Tech Stack
 ### Languages
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,csharp,javascript,typescript,dart,html,css" /> </p>
 
 ### Frontend & Mobile
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,reactnative,html,css" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,reactnative,flutter" /> </p>
 
 ### Backend & Frameworks
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet" /> </p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" /> </p>
+### Databases & ORM
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma" /> </p>
 
-### Databases & Tools
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,git,github,vscode,postman" /> </p>
+### Tools & Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> </p>
 
 ---
 

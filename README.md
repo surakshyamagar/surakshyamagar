@@ -138,6 +138,9 @@
     />
   </a>
 </p>
+<p align="center">
+  Projects · Experience · CV · Skills · Contact
+</p>
 
 ---
 

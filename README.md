@@ -18,7 +18,7 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,html,css" />
 </p>
 
 ### 🌐 Frontend & Mobile

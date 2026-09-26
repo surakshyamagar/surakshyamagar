@@ -73,7 +73,7 @@ I enjoy building practical software, designing backend systems, working with dat
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=surakshyamagar&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&hide_border=true"
+    src="https://github-activity-graph-beta.vercel.app/graph?username=surakshyamagar"
     alt="Surakshya's GitHub Activity Graph"
   />
 </p>

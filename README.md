@@ -3,7 +3,7 @@
 ### Aspiring Software Developer | Backend & Full-Stack Development
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2563EB&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
 </p>
 
 I enjoy building practical software, designing backend systems, working with databases, and turning ideas into useful applications.
@@ -70,6 +70,7 @@ I enjoy building practical software, designing backend systems, working with dat
 <p align="center">
   <sub>Automatically updated from GitHub</sub>
 </p>
+
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -78,8 +79,8 @@ I enjoy building practical software, designing backend systems, working with dat
 
 <p align="center">
   <img
-    src="https://github-activity-graph-beta.vercel.app/graph?username=surakshyamagar&bg_color=ffffff&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true"
-    alt="Surakshya's GitHub Activity Graph"
+    src="https://github-activity-graph-beta.vercel.app/graph?username=surakshyamagar&bg_color=ffffff&color=2563EB&line=2563EB&point=2563EB&area=true&area_color=EFF6FF&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+    alt="Surakshya's GitHub Activity"
     width="100%"
   />
 </p>

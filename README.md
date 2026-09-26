@@ -21,13 +21,13 @@ I enjoy building practical software, designing backend systems, working with dat
 ### Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react" />
 </p>
 
 ### Databases & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,git,github,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,git,github,vscode,postman" />
 </p>
 
 ---

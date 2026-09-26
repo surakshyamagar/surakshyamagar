@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
 </p>
 
-I enjoy building practical software, designing backend systems, working with databases, and turning ideas into useful applications.
+💻 I build practical **web applications, backend systems, and REST APIs**.
+
+🗄️ I enjoy working with **databases, API design, authentication, and software architecture**.
+
+🌱 Always learning, building, debugging, and improving.
 
 ---
 
@@ -43,35 +47,13 @@ I enjoy building practical software, designing backend systems, working with dat
 
 ---
 
-## 📊 GitHub
+## 🚀 Featured Project
 
-<!-- GITHUB_STATS_START -->
+### DevPilot — Intelligent Software Project Development Platform
 
-<p align="center">
-  <b>📦 11 Public Repositories</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>⭐ 0 Stars</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>👥 2 Followers</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>👤 3 Following</b>
-</p>
+A full-stack software project management and development platform focused on **requirements, development planning, task management, API testing, analytics, technical review, project health, and ML-based risk prediction**.
 
-<p align="center">
-  <b>📝 12 Contributions</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>🔀 0 Pull Requests</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>🐛 0 Issues</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <b>🍴 0 Forks</b>
-</p>
-
-<p align="center">
-  <sub>Automatically updated from GitHub</sub>
-</p>
-
-<!-- GITHUB_STATS_END -->
+**Built with:** React · Node.js · Express · TypeScript · PostgreSQL · Prisma · Python · Flask
 
 ---
 
@@ -87,7 +69,7 @@ I enjoy building practical software, designing backend systems, working with dat
 
 ---
 
-## 🧊 3D Profile
+## 🧊 3D Contribution Profile
 
 <p align="center">
   <img
@@ -99,24 +81,7 @@ I enjoy building practical software, designing backend systems, working with dat
 
 ---
 
-## 🚀 Explore My Work
-
-<p align="center">
-  <a href="https://portfolio-seven-lime-vl0tmq9kot.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-2563EB?style=for-the-badge"
-      alt="Visit Portfolio"
-    />
-  </a>
-</p>
-
-<p align="center">
-  Projects · Experience · CV · Skills · Contact
-</p>
-
----
-
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://portfolio-seven-lime-vl0tmq9kot.vercel.app/">
@@ -139,7 +104,9 @@ I enjoy building practical software, designing backend systems, working with dat
   </a>
 </p>
 
----
+<p align="center">
+  <i>Building · Learning · Improving 🚀</i>
+</p>
 
 <p align="center">
   <img
@@ -147,8 +114,4 @@ I enjoy building practical software, designing backend systems, working with dat
     width="100%"
     alt="Footer"
   />
-</p>
-
-<p align="center">
-  <i>Building · Learning · Improving 🚀</i>
 </p>

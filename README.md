@@ -1,9 +1,9 @@
 # Hi 👋, I'm Surakshya
 
-### Aspiring Software Developer | Backend & Full-Stack Development
+### Aspiring Software Developer | Full-Stack Developer
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=700&lines=Building+Web+%26+Mobile+Applications+%F0%9F%9A%80;Full-Stack+Software+Development+%F0%9F%92%BB;Designing+APIs+%26+Database+Systems+%E2%9A%99%EF%B8%8F;Learning+%26+Improving+Every+Day+%F0%9F%8C%B1" alt="Typing Animation" />
 </p>
 
 💻 I build practical web and mobile applications, working across the frontend, backend, and everything in between.
@@ -15,19 +15,19 @@
 ---
 
 🛠️ Tech Stack
-Languages
+### Languages
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" /> </p>
 
-Frontend & Mobile
+### Frontend & Mobile
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,reactnative,html,css" /> </p>
 
-Backend & Frameworks
+### Backend & Frameworks
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" /> </p>
 
-Databases & Tools
+### Databases & Tools
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,git,github,vscode,postman" /> </p>
 

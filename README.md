@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=650&lines=Building+practical+software+%F0%9F%9A%80;Backend+%26+Full-Stack+Development;Designing+APIs+%26+Database+Systems;Learning+%26+Improving+Every+Day" alt="Typing Animation" />
 </p>
 
-💻 I build practical web applications, backend systems, and REST APIs.
+💻 I build practical web and mobile applications, working across the frontend, backend, and everything in between.
 
-🗄️ I enjoy working with databases, API design, authentication, and software architecture.
+⚙️ I especially enjoy backend development, API design, databases, authentication, and building reliable software systems.
 
 🌱 Always learning, building, debugging, and improving.
 
@@ -21,6 +21,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
 </p>
+
+### Frontend & Mobile
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,reactnative,html,css" /> </p>
 
 ### Backend & Frameworks
 
@@ -38,10 +42,11 @@
 
 ## 💻 What I Work On
 
+* Full-stack web and mobile applications
 * Backend development and REST APIs
-* Full-stack web applications
 * Database design and SQL
 * Authentication and API integration
+* Software architecture and system design
 * Data processing and integration
 * Clean and maintainable software
 

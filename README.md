@@ -1,9 +1,9 @@
 # Hi 👋, I'm Surakshya
 
-### Aspiring Software Developer | Full-Stack Developer
+### Aspiring Software Developer | Full-Stack & Backend Developer
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=700&lines=Building+Web+%26+Mobile+Applications+%F0%9F%9A%80;Full-Stack+Software+Development+%F0%9F%92%BB;Designing+APIs+%26+Database+Systems+%E2%9A%99%EF%B8%8F;Learning+%26+Improving+Every+Day+%F0%9F%8C%B1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2563EB&center=false&vCenter=true&width=700&lines=Building+Web+%26+Mobile+Applications+%F0%9F%9A%80;Full-Stack+Software+Development+%F0%9F%92%BB;Backend+Development+%26+REST+APIs+%E2%9A%99%EF%B8%8F;Designing+Database+Systems+%26+Integrations+%F0%9F%97%84%EF%B8%8F;Learning+%26+Improving+Every+Day+%F0%9F%8C%B1" alt="Typing Animation" />
 </p>
 
 💻 I build practical web and mobile applications, working across the frontend, backend, and everything in between.

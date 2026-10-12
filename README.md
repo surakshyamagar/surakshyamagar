@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <b>📝 43 Contributions</b>
+  <b>📝 40 Contributions</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <b>🔀 0 Pull Requests</b>
   &nbsp;&nbsp;•&nbsp;&nbsp;
